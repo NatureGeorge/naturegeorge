@@ -4,24 +4,24 @@ I'm an undergraduate student at Soochow University (PRC) major in Bioinformatics
 
 ## 🔭 Currently Working On
 
-Currently, I am working on programming and have a thirst for the insight of mathematical modeling, modern statistics, pattern recognition and so on. My involvement in science lays in the study of the protein tertiary structure.
+[![github stats](https://github-readme-stats.vercel.app/api?username=naturegeorge&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![samirelanduk's github stats](https://github-readme-stats.vercel.app/api?username=naturegeorge&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Currently, I am working on programming and have a thirst for the insight of mathematical modeling, modern statistics, pattern recognition and so on. My involvement in science lays in the study of the protein tertiary structure.
 
 ## 👨‍💻 Programming Languages and Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naturegeorge&hide=html,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naturegeorge&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
   <tr>
     <td>
-      🎯 Expert
+      🌳 Expert
     </td>
     <td>
-      🛠 Quite Well
+      🌾 Quite Well
     </td>
     <td>
-      🛒 Know
+      🌿 Know
     </td>
     <td>
       🌱 Learning
@@ -57,9 +57,11 @@ Currently, I am working on programming and have a thirst for the insight of math
   </tr>
 </table>
 
-## 📚 Personal Blog
+
+## 📚 Personal Notes
 
 * [EigenBlog](https://naturegeorge.github.io/eigenblog/)
+* [Gist](https://gist.github.com/NatureGeorge)
 
 ## 📫 How to reach me
 
