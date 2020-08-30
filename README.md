@@ -12,36 +12,50 @@ Currently, I am working on programming and have a thirst for the insight of math
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naturegeorge&hide=html,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🎯 Expert
-
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="30"></code>
-
-### 🛠 Quite Well
-
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="30"></code>
-<code><img src="https://cdn.perl.org/perlweb/images/icons/header_camel.png" height="30"></code>
-<code><img height="30" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/330px-WolframCorporateLogo.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/1200px-Wolfram_Language_Logo_2016.svg.png"></code>
-<code><img height="30" src="https://image.flaticon.com/icons/svg/603/603201.svg"></code>
-
-
-### 🛒 Konw
-
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="30"></code>
-
-### 🌱 Learning
-
-<code><img height="30" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo-325x150.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
-<code><img height="30" src="https://graphql.org/img/logo.svg"></code>
+<table>
+  <tr>
+    <td>
+      🎯 Expert
+    </td>
+    <td>
+      🛠 Quite Well
+    </td>
+    <td>
+      🛒 Know
+    </td>
+    <td>
+      🌱 Learning
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="30"></code>
+    </td>
+    <td>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="30"></code>
+      <code><img src="https://cdn.perl.org/perlweb/images/icons/header_camel.png" height="30"></code>
+      <code><img height="30" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
+      <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/330px-WolframCorporateLogo.svg.png"></code>
+      <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/1200px-Wolfram_Language_Logo_2016.svg.png"></code>
+      <code><img height="30" src="https://image.flaticon.com/icons/svg/603/603201.svg"></code>
+    </td>
+    <td>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" height="30"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="30"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="30"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"></code>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="30"></code>
+    </td>
+    <td>
+      <code><img height="30" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo-325x150.png"></code>
+      <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
+      <code><img height="30" src="https://graphql.org/img/logo.svg"></code>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Personal Blog
 
