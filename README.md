@@ -39,6 +39,7 @@ Currently, I am working on programming and have a thirst for the insight of math
       <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/330px-WolframCorporateLogo.svg.png"></code>
       <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/1200px-Wolfram_Language_Logo_2016.svg.png"></code>
       <code><img height="30" src="https://image.flaticon.com/icons/svg/603/603201.svg"></code>
+      <code><img src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-png-transparent.png" height="30"></code>
     </td>
     <td>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
