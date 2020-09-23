@@ -4,14 +4,14 @@ I'm an undergraduate student at Soochow University (PRC) major in Bioinformatics
 
 ## 🔭 Currently Working On
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=naturegeorge&count_private=true&show_icons=true&title_color=00FF00&icon_color=79ff97&text_color=DCDCDC&bg_color=20,151515,365050)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=naturegeorge&count_private=true&show_icons=true&title_color=6495ED&icon_color=00BFFF&text_color=DCDCDC&bg_color=20,151515,364040)](https://github.com/anuraghazra/github-readme-stats)
 
 Currently, I am working on programming and have a thirst for the insight of mathematical modeling, modern statistics, pattern recognition and so on. My involvement in science lays in the study of the protein tertiary structure.
 
 ## 👨‍💻 Programming Languages and Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naturegeorge&hide=html,javascript&layout=compact&title_color=00FF00&text_color=DCDCDC&bg_color=20,151515,365050)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZZF&title_color=00FF00&text_color=DCDCDC&bg_color=20,151515,365050)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naturegeorge&hide=html,javascript&layout=compact&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZZF&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040)](https://github.com/anuraghazra/github-readme-stats)
 
 <table>
   <tr>
