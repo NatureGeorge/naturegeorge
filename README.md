@@ -14,6 +14,10 @@ Currently, I am working on programming and have a thirst for the insight of math
 
 ## 👨‍💻 Programming Languages and Skills
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Developing%20with-VSCode%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=microsoft"/>
+</p>
+
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZZF&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040&layout=compact"/>
@@ -71,6 +75,7 @@ Currently, I am working on programming and have a thirst for the insight of math
       <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"></code>
       <code><img height="30" src="https://graphql.org/img/logo.svg"></code>
       <code><img height="30" src="https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/04/Domain-Specific-Languages.png"></code>
+      <code><img height="30" src="https://julialang.org/assets/infra/logo.svg"></code>
     </td>
   </tr>
 </table>
