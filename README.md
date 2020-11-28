@@ -15,7 +15,9 @@ Currently, I am working on programming and have a thirst for the insight of math
 ## 👨‍💻 Programming Languages and Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developing%20with-VSCode%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=microsoft"/>
+  <img src="https://img.shields.io/badge/Mainly%20Code%20With-Python%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Working%20OS-Linux%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Current%20Editor-VSCode%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=Visual%20Studio%20Code"/>
 </p>
 
   <p align="center">
