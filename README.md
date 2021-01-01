@@ -8,6 +8,9 @@ I'm an undergraduate student at Soochow University (PRC) major in Bioinformatics
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=naturegeorge&count_private=true&show_icons=true&title_color=6495ED&icon_color=00BFFF&text_color=DCDCDC&bg_color=20,151515,364040"/>
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZZF&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040&layout=compact"/>
+  </a>
 </p>
 
 Currently, I am working on programming and have a thirst for the insight of mathematical modeling, modern statistics, pattern recognition and so on. My involvement in science lays in the study of the protein tertiary structure.
@@ -18,17 +21,8 @@ Currently, I am working on programming and have a thirst for the insight of math
   <img src="https://img.shields.io/badge/Mainly%20Code%20With-Python%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Working%20OS-Linux%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/Current%20Editor-VSCode%20-gray.svg?colorB=5A65B3&style=for-the-badge&logo=Visual%20Studio%20Code"/>
+  <img alt="Code Time" src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/180?logoColor=white%26&colorB=5A65B3" />
 </p>
-
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZZF&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040&layout=compact"/>
-    </a>
-    <br />
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naturegeorge&hide=html,javascript&layout=compact&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040"/>
-    </a>
-  </p>
 
 <table align="center">
   <tr>
@@ -55,7 +49,6 @@ Currently, I am working on programming and have a thirst for the insight of math
       <code><img src="https://cdn.perl.org/perlweb/images/icons/header_camel.png" height="35"></code>
       <code><img height="35" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
       <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/330px-WolframCorporateLogo.svg.png"></code>
-      <code><img height="35" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Wolfram_Language_Logo_2016.svg/1200px-Wolfram_Language_Logo_2016.svg.png"></code>
       <code><img height="35" src="https://image.flaticon.com/icons/svg/603/603201.svg"></code>
     </td>
   </tr>
@@ -72,7 +65,6 @@ Currently, I am working on programming and have a thirst for the insight of math
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="35"></code>
-      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="35"></code>
     </td>
   </tr>
   <tr>
@@ -95,9 +87,3 @@ Currently, I am working on programming and have a thirst for the insight of math
 
 * [EigenBlog](https://naturegeorge.github.io/eigenblog/)
 * [Gist](https://gist.github.com/NatureGeorge)
-
-## 📫 How to reach me
-
-* mail: 1730416009@stu.suda.edu.cn
-
-
