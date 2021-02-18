@@ -45,10 +45,11 @@ Currently, I am working on programming and have a thirst for the insight of math
   </tr>
   <tr>
     <td>
+      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="35"></code>
+      <code><img src="https://avatars.githubusercontent.com/u/486082?s=200&v=4" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="35"></code>
       <code><img src="https://cdn.perl.org/perlweb/images/icons/header_camel.png" height="35"></code>
       <code><img height="35" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
-      <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/330px-WolframCorporateLogo.svg.png"></code>
       <code><img height="35" src="https://image.flaticon.com/icons/svg/603/603201.svg"></code>
     </td>
   </tr>
@@ -59,12 +60,12 @@ Currently, I am working on programming and have a thirst for the insight of math
   </tr>
   <tr>
     <td>
-      <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/ruby/ruby.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="35"></code>
+      <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/330px-WolframCorporateLogo.svg.png"></code>
     </td>
   </tr>
   <tr>
@@ -78,6 +79,7 @@ Currently, I am working on programming and have a thirst for the insight of math
       <code><img height="35" src="https://graphql.org/img/logo.svg"></code>
       <code><img height="35" src="https://raw.githubusercontent.com/edgedb/edgedb/master/logo.svg"></code>
       <code><img height="35" src="https://julialang.org/assets/infra/logo.svg"></code>
+      <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"></code>
     </td>
   </tr>
 </table>
