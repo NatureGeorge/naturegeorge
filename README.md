@@ -2,7 +2,11 @@
 
 I'm an undergraduate student at Soochow University (PRC) major in Bioinformatics/Computational Biology since 2017.
 
-## 🔭 Currently Working On
+## 🔭 Summary
+
+<details>
+<summary>Basic Stats</summary>
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,6 +16,8 @@ I'm an undergraduate student at Soochow University (PRC) major in Bioinformatics
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZZF&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040&layout=compact"/>
   </a>
 </p>
+
+</details>
 
 Currently, I am working on programming and have a thirst for the insight of mathematical modeling, modern statistics, pattern recognition and so on. My involvement in science lays in the study of the protein tertiary structure.
 
@@ -49,7 +55,6 @@ Currently, I am working on programming and have a thirst for the insight of math
       <code><img src="https://avatars.githubusercontent.com/u/486082?s=200&v=4" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/r/r.png" height="35"></code>
       <code><img src="https://cdn.perl.org/perlweb/images/icons/header_camel.png" height="35"></code>
-      <code><img height="35" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
       <code><img height="35" src="https://image.flaticon.com/icons/svg/603/603201.svg"></code>
     </td>
   </tr>
@@ -65,6 +70,7 @@ Currently, I am working on programming and have a thirst for the insight of math
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="35"></code>
       <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="35"></code>
+      <code><img height="35" src="https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png"></code>
       <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WolframCorporateLogo.svg/330px-WolframCorporateLogo.svg.png"></code>
     </td>
   </tr>
