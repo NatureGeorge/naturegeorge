@@ -1,7 +1,7 @@
 # Zefeng Zhu👋
 
 * **2017.9-2021.6**: major in *Bioinformatics* at Soochow University (PRC), receive a Bachelor of Science degree
-* **2021.9-**: study for a doctorate at Peking University
+* **2021.9-**: PhD student at Peking University
 
 ## 🔭 Summary
 
