@@ -1,7 +1,7 @@
 # Zefeng Zhu👋
 
-* **2017.9-2021.6**: major in *Bioinformatics* at Soochow University (PRC), receive a Bachelor of Science degree
 * **2021.9-**: PhD student at Peking University
+* **2017.9-2021.6**: major in *Bioinformatics* at Soochow University (PRC), receive a Bachelor of Science degree
 
 ## 🔭 Summary
 
@@ -67,15 +67,10 @@ Currently, I am working on programming and have a thirst for the insight of math
   </tr>
   <tr>
     <td>
+      <code><img height="35" src="https://shiftlab.github.io/pytorch/assets/images/pytorch-logo.png"></code>
       <code><img height="35" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo-325x150.png"></code>
       <code><img height="35" src="https://graphql.org/img/logo.svg"></code>
       <code><img height="35" src="https://raw.githubusercontent.com/edgedb/edgedb/master/logo.svg"></code>
     </td>
   </tr>
 </table>
-
-
-## 📚 Personal Notes
-
-* [EigenBlog](https://naturegeorge.github.io/eigenblog/)
-* [Gist](https://gist.github.com/NatureGeorge)
