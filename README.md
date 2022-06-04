@@ -1,6 +1,12 @@
-# Hi!👋 This is ZZF.
+# Zefeng Zhu👋
 
-## 🔭 Stats
+* **2021.9-**: PhD student at Peking University
+* **2017.9-2021.6**: major in *Bioinformatics* at Soochow University (PRC), receive a Bachelor of Science degree
+
+## 🔭 Summary
+
+<details>
+<summary>Basic Stats</summary>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,6 +16,10 @@
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZZF&title_color=6495ED&text_color=DCDCDC&bg_color=20,151515,364040&layout=compact"/>
   </a>
 </p>
+
+</details>
+
+Currently, I am working on programming and have a thirst for the insight of mathematical modeling, modern statistics, pattern recognition and so on. My involvement in science lays in the study of the protein tertiary structure.
 
 ## 👨‍💻 Programming Zone
 
