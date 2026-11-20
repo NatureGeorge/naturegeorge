@@ -2,10 +2,15 @@
 
 Hi! I am Zefeng. I model the biomacromolecular conformations. I am developing geometric and probabilistic tools on related problems.
 
-## Education
+* [Google Scholar](https://scholar.google.com/citations?user=CCOkKs4AAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Zefeng-Zhu-2)
+* [ORCID](https://orcid.org/0000-0002-2761-3291)
+* [Twitter](https://x.com/realZZF)
 
-* **2021.9-2027.6**: working on computational biophysics, PhD student at Peking University
-* **2017.9-2021.6**: major in *Bioinformatics* at Soochow University (PRC), receive a Bachelor of Science degree
+## 🦉 Education
+
+* **2021.9-2027.6**: working on *computational biophysics*, PhD student at Peking University
+* **2017.9-2021.6**: majored in *bioinformatics* at Soochow University (PRC), received a Bachelor of Science degree
 
 ## 🔭 Research Projects
 
